@@ -1,1 +1,1 @@
-<h1>i code sometimes when im bored</h1>
+<h1>actively coding and making new projects!</h1>
