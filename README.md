@@ -1,1 +1,1 @@
-<h1>actively coding and making new projects!</h1>
+<h1>actively coding and making new projects</h1>
